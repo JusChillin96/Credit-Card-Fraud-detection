@@ -1,5 +1,7 @@
 # 💳 Credit Card Fraud Detection
 
+### Link to download dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 ### A Machine Learning project to detect fraudulent credit card transactions using Under-Sampling and Logistic Regression.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
